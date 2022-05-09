@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="red">#FF5722</color>
+    <string name="toast_Dot">Just for integer</string>
+    <string name="toast_BS">Have not developed yet!</string>
+</resources>
